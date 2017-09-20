@@ -1,10 +1,5 @@
-# FHV_MEM_Master_thesis
-official documents of the master thesis:  
-Integration of a generic microcontroller including analog and digital periphery into a FPGA-based hardware-in-the-Loop simulation environment for power electronics.
-
-
 Abstract
-Title of Masters thesis:
+
 Integration of a generic microcontroller including analog and digital periphery
 into a FPGA-based hardware-in-the-Loop simulation environment for power
 electronics.
